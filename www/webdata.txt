@@ -1,0 +1,3 @@
+{192.168.1.29:5555,com.juteralabs.perktv.,/home/pi/www/192.168.1.29:5555.png}
+{0123456789ABCDEF,com.juteralabs.perktv.,/home/pi/www/0123456789ABCDEF.png}
+{BLUDASH0,com.juteralabs.perktv.,/home/pi/www/BLUDASH0.png}
